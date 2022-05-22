@@ -1,6 +1,6 @@
 # Jogo do Pong
 
-Feito em 12/05/2022 pelo usuário Apollon-S, é um código feito após o término do curso "começando com jogos clássicos no javascript"
+Feito em 12/05/2022 pelo usuário Apollon-S, é um código feito após o término do curso "começando com jogos clássicos no javascript" do Alura.
 
 ## Como jogar?
 
